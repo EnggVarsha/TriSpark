@@ -7,6 +7,7 @@ import DashboardLayout from './components/Layout/DashboardLayout';
 import Home from './components/Dashboard/Home';
 import JobSearch from './components/Dashboard/JobSearch';
 import ResumeMaker from './components/Dashboard/ResumeMaker';
+import ResumeAnalyzer from './components/Dashboard/ResumeAnalyzer';
 import CompanyResearch from './components/Dashboard/CompanyResearch';
 import MyApplications from './components/Dashboard/MyApplications';
 import Profile from './components/Dashboard/Profile';
